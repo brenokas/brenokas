@@ -27,8 +27,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brenokas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenokas&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenokas&show_icons=true&theme_gruvbox&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenokas&theme_gruvbox&hide_border=true&locale=en&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ###
