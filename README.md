@@ -26,8 +26,8 @@
 
 <br clear="both">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenokas&show_icons=true&theme_gruvbox&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenokas&theme_gruvbox&hide_border=true&locale=en&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenokas&show_icons=true&theme=gruvbox&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenokas&theme=gruvbox&hide_border=true&locale=en&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
