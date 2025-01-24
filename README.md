@@ -31,7 +31,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenokas&theme=gruvbox&hide_border=true&locale=en&hide_title=true&layout=compact&card_width=320px)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-###
 
 <br clear="both">
 
