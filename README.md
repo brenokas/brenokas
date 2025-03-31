@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é Breno! Muito prazer 👋<br>Hello! My name is Breno! Nice to meet you 👋</h2>
+<h2 align="left">🇧🇷 Olá! Meu nome é Breno! Muito prazer 👋<br>🇺🇸 Hello! My name is Breno! Nice to meet you 👋</h2>
 
 ###
 
