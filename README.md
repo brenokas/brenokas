@@ -8,7 +8,9 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  String[] languages = {"Java", "Python", "Javascript"};
-  String[] frameworks = {"Spring boot"};
+  String[] frontEnd = {"JavaScript", "CSS3", "HTML5", "UI/UX", "Figma"}
+  String[] backEnd = {"Java", "Node.JS", "Spring Boot"};
+  String[] data = {"Python", "MySQL", "R"};
+  String[] cloudAndDevOps = {"AWS", "Docker"}
 }
 ```
