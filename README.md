@@ -8,7 +8,7 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  String[] mobile = {"Swift"}
+  String[] mobile = {"Swift", "SwiftUI"}
   String[] frontEnd = {"JavaScript", "CSS3", "HTML5", "UI/UX", "Figma"}
   String[] backEnd = {"Java", "Node.JS", "Spring Boot"};
   String[] data = {"Python", "MySQL", "R"};
