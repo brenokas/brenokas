@@ -3,7 +3,7 @@ package br.com.Brenokas;
 
 class AboutMe extends Developer {
   String area = "backend & mobile";
-  String company = "[Avanade](https://www.avanade.com/)";
+  String company = "Avanade";
   String language = "pt-br & english"
 }
 
